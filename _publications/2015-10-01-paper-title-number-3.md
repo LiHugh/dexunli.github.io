@@ -2,9 +2,9 @@
 title: "Marginal Benefit Induced Unsupervised Environment Design"
 collection: Preprint
 permalink: https://arxiv.org/pdf/2302.02119.pdf
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper is to train generally capable Reinforcement Learning agents by incorporating the proposed marginal benefit and diversity metrics.'
 date: 2023
-venue: 'Journal 1'
+venue: 'ArXiv'
 paperurl: '[download the PDF here.](https://arxiv.org/pdf/2302.02119.pdf)'
 citation: '@article{li2023diversity,
   title={Diversity Induced Environment Design via Self-Play},
