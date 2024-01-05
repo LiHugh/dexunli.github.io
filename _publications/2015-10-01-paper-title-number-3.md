@@ -1,7 +1,7 @@
 ---
 title: "Marginal Benefit Induced Unsupervised Environment Design"
 collection: Preprint
-permalink: https://arxiv.org/pdf/2302.02119.pdf
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is to train generally capable Reinforcement Learning agents by incorporating the proposed marginal benefit and diversity metrics.'
 date: 2023
 venue: 'ArXiv'
